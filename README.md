@@ -1,16 +1,16 @@
 # react-native-coins
 
 > Home Page
-![preview](screenshot/1.jpg)
+<img src="screenshot/1.png"/>
 
 > Categories Page
-![preview](screenshot/2.jpg)
+<img src="screenshot/2.png"/>
 
 > Categories Details
-![preview](screenshot/3.jpg)
+<img src="screenshot/3.png"/>
 
 > All Coins Page
-![preview](screenshot/4.jpg)
+<img src="screenshot/4.png"/>
 
 > Coin Details Page
-![preview](screenshot/5.jpg)
+<img src="screenshot/5.png"/>
