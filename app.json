@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "books",
-    "slug": "books",
+    "slug": "listcoins",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -24,10 +24,17 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
-      }
+      },
+      "package": "com.mikail.a.listcoins"
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "5094fe58-d4ac-4045-bdf5-c2762396a811"
+      }
+    },
+    "owner": "mikail.a"
   }
 }
