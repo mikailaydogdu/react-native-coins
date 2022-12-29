@@ -1,7 +1,7 @@
 # react-native-coins
 
 > Home Page
-<img src="screenshot/1.jpeg" height="120"/>
+<img src="screenshot/1.jpeg" height="200"/>
 
 > Categories Page
 <img src="screenshot/2.jpeg"/>
